@@ -1,0 +1,6 @@
+title,author,year,genre,read,image
+a,a,1000,de,True,book_images\a.png
+545,45,1000,45,True,book_images\545.png
+Hamza,hk,1000,w,True,book_images\Hamza.png
+545,dede,1000,de,True,book_images\545.png
+Pana ,Hamza,2000,Keep,False,book_images\Pana_.png
