@@ -1,10 +1,10 @@
 [
     {
-        "title": "Atomic Habits",
-        "author": "James Clear",
-        "year": 2018,
-        "genre": "Self-help, Personal Development",
+        "title": "fr",
+        "author": "fe",
+        "year": 2020,
+        "genre": "fr",
         "read": true,
-        "image": "book_images\\Atomic_Habits.png"
+        "image": "book_images\\fr.png"
     }
 ]
