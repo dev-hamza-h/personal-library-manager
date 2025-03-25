@@ -6,5 +6,29 @@
         "genre": "fr",
         "read": true,
         "image": "book_images\\fr.png"
+    },
+    {
+        "title": "The Psychology of Money",
+        "author": "Morgan Housel",
+        "year": 2020,
+        "genre": "",
+        "read": false,
+        "image": "book_images\\The_Psychology_of_Money.png"
+    },
+    {
+        "title": "The Psychology of Money",
+        "author": "Morgan Housel",
+        "year": 2020,
+        "genre": "",
+        "read": false,
+        "image": "book_images\\The_Psychology_of_Money.png"
+    },
+    {
+        "title": "The Psychology of Money",
+        "author": "Morgan Housel",
+        "year": 2020,
+        "genre": "",
+        "read": false,
+        "image": "book_images\\The_Psychology_of_Money.png"
     }
 ]

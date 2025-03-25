@@ -538,7 +538,6 @@ elif choice == "Display All Books":
                     margin-bottom: 15px;
                     box-shadow: 4px 4px 12px rgba(215, 176, 139, 0.96);
                     background-color: rgb(255, 234, 223);
-                    width: 300px;
                     ">
                     <img src="data:image/png;base64,{img_base64}" width="300px" height="200px" style="border-radius: 5px; object-fit: contain;" />
                     <h5 style="color: #000000; margin-top:10px">{book['title']}</h4>
