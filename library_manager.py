@@ -328,7 +328,7 @@ if choice == "Home":
                     <p><strong>Author:</strong> {book['author']}</p>
                     <p><strong>Genre:</strong> {book['genre']}</p>
                     <p><strong>Year:</strong> {book['year']}</p>
-                    <p><strong>Status:</strong> {'Read' if book['read'] else 'To Read'}</p>
+                    <p><strong>Status:</strong> {'Read' if book['read'] else 'Unread'}</p>
                     </div>
                     """,
                     unsafe_allow_html=True
