@@ -324,7 +324,7 @@ if choice == "Home":
                     background-color: rgb(255, 234, 223);
                     ">
                     <img src="data:image/png;base64,{img_base64}" width="300px" height="200px" style="border-radius: 5px; object-fit: contain;" />
-                    <h5 style="color: #000000; margin-top:10px">{book['title']}</h4>
+                    <h5 style="color: #000000; margin-top:10px">{book['title']}</h5>
                     <p><strong>Author:</strong> {book['author']}</p>
                     <p><strong>Genre:</strong> {book['genre']}</p>
                     <p><strong>Year:</strong> {book['year']}</p>
@@ -755,14 +755,13 @@ elif choice == "Search for a Book":
                         st.markdown(
                             f"""
                             <div style="
-                                border: 2px solid #d14b11;
-                                border-radius: 10px;
-                                padding: 15px;
-                                margin-bottom: 10px;
-                                box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.1);
-                                background-color: rgb(255, 234, 223);">
+                               border-radius: 10px;
+                               padding: 20px;
+                               margin-bottom: 15px;
+                               box-shadow: 4px 4px 12px rgba(215, 176, 139, 0.96);
+                               background-color: rgb(255, 234, 223);">
                                 <img src="data:image/png;base64,{img_base64}" width="300px" height="200px" style="border-radius: 5px; object-fit: contain;" />
-                                <h4 style="color: #333;">{book['title']}</h4>
+                                <h5 style="color: #000000; margin-top: 10px;">{book['title']}</h5>
                                 <p><strong>Author:</strong> {book['author']}</p>
                                 <p><strong>Genre:</strong> {book['genre']}</p>
                                 <p><strong>Year:</strong> {book['year']}</p>
